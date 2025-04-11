@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**muma005/muma005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Muma! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer, problem solver, and lifelong learner who enjoys building innovative solutions and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning, student **[development ,AI and other intresting technologies]**
+- 🔭 I’m working on **[many projects check out my github repositories]**
+- 💬 Ask me about **[ web development, data science, Machine Learning and AI .]**
+- 📫 How to reach me: **[gmuma4879@gmail.com]**
+- ⚡ Fun fact: **[am still tryna find the fun fact just kidding though i write article on Medium. check me out.link down below😂]**
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: **[Python,R,C++]**
+- Frameworks & Libraries: **[React, Django,pandas,sklearn,pytorch,tensorflow,seaborn etc.]**
+- Tools & Platforms: **[ Docker, GitHub Actions, and others that am yet to use 😂.]**
+
+---
+
+## 📈 GitHub Stats
+
+![Muma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muma005&show_icons=true&hide_title=false&count_private=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muma005&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌟 Featured Projects
+
+- **[inventory management system](#)**: .
+- **[predictive modeling](#)**: .
+- **[check out the others in my repositories](#)**: .
+
+---
+
+## 🤝 Let's Connect!
+
+- [LinkedIn](#)
+- medium. ( https://medium.com/@gmuma4879/audience )
+- [Twitter](#)
+- [Personal Website](#)
+- am droping them soon.watch out 😂
+
+---
+
+Thank you for visiting my profile! 😊
+
+
