@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer, problem solver, and li
 - 🔭 I’m working on **[many projects check out my github repositories]**
 - 💬 Ask me about **[ web development, data science, Machine Learning and AI .]**
 - 📫 How to reach me: **[gmuma4879@gmail.com]**
-- ⚡ Fun fact: **[am still tryna find the fun fact just kidding though i write article on Medium. check me out.link down below😂]**
+- ⚡ Fun fact: **[ i write articles on Medium. 😂]**
 
 ---
 
