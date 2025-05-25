@@ -1,7 +1,7 @@
 
 # Hi there, I'm Muma! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, problem solver, and lifelong learner who enjoys building innovative solutions and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate data scientist, problem solver, and lifelong learner who enjoys building innovative solutions and exploring new technologies.
 
 ---
 
