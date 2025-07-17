@@ -40,7 +40,6 @@ I'm a passionate **Data Scientist**, problem solver, and lifelong learner who lo
 
 ## 📈 GitHub Stats
 
-<!-- Replace with your actual stats once you have them set up -->
 ![Muma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muma005&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muma005&layout=compact&theme=radical)
 
@@ -48,8 +47,9 @@ I'm a passionate **Data Scientist**, problem solver, and lifelong learner who lo
 
 ## 🌟 Featured Projects
 
-- **[Inventory Management System](#)**: A robust system for tracking and managing inventory.
-- **[Predictive Modeling](#)**: Advanced modeling for accurate predictions.
+- **[MLTeammate](https://github.com/muma005/MLTeammate)**: An open-source AutoML framework designed to automate the entire machine learning workflow—from data preprocessing to model selection and evaluation. MLTeammate enables faster, smarter experimentation and deployment for data science teams.
+- **Inventory Management System**: A robust system for tracking and managing inventory.
+- **Predictive Modeling**: Advanced modeling for accurate predictions.
 - ...and more—check out my [repositories](https://github.com/muma005?tab=repositories)!
 
 ---
