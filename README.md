@@ -41,18 +41,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
 
----
-
-
-## 👾 My Contributions - Mini Game!
-
-<p align="center">
-  <b>Can you spot Pac-Man and all the ghosts in my contribution maze?</b>
-  <br>
-  ![image2](image2)
-  <br>
-  <i>Hint: Every "blue dot" is a contribution—keep coding to win!</i>
-</p>
 
 ---
 
