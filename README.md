@@ -1,49 +1,62 @@
 
 
-<!-- Profile Header -->
 <h1 align="center">Hi there, I'm Muma! 👋</h1>
 <p align="center">
-  <b>Data Scientist | Innovator | Lifelong Learner</b>
-  <br>
+  <b>Data Scientist | Innovator | Lifelong Learner</b><br>
   <i>Building innovative solutions and exploring new technologies</i>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🏅 Profile Insights
 
-- 🌱 Currently learning: Development, AI, and other exciting technologies
-- 🔭 Working on: Many projects—check out my repositories!
-- 💬 Ask me about: Web development, data science, machine learning, and AI
-- 📫 Reach me: [gmuma4879@gmail.com](mailto:gmuma4879@gmail.com)
-- ⚡ Fun fact: I write articles on [Medium](https://medium.com/@gmuma4879/audience) 😂
+- 🚀 Passionate about Data Science, ML, Artificial Intelligence, and Full Stack Development
+- 🌱 Always learning: new frameworks, tools, and concepts in tech
+- 🔭 Working on open-source projects, check out my repositories!
+- 💬 Open for collaboration and knowledge sharing
+- ✍️ Writing on [Medium](https://medium.com/@gmuma4879/audience) about tech and data
+- 📨 Contact: [gmuma4879@gmail.com](mailto:gmuma4879@gmail.com)
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muma005&theme=radical" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
 - **[MLTeammate](https://github.com/muma005/MLTeammate)**  
-  <i>An open-source AutoML framework designed to automate the entire machine learning workflow—from data preprocessing to model selection and evaluation. MLTeammate enables faster, smarter experimentation and deployment for data science teams.</i>
+  <i>An open-source AutoML framework that automates the machine learning workflow—data preprocessing, model selection, and evaluation—so you can experiment and deploy smarter, faster.</i>
 - **Inventory Management System**  
-  A robust system for tracking and managing inventory.
+  Robust system for tracking and managing inventory.
 - **Predictive Modeling**  
-  Advanced modeling for accurate predictions.
-- ...and more—check out my [repositories](https://github.com/muma005?tab=repositories)!
+  Accurate modeling for data-driven predictions.
+- ...and more in my [repositories](https://github.com/muma005?tab=repositories)!
 
 ---
 
@@ -65,16 +78,22 @@
   <!-- Add your LinkedIn and Twitter URLs below! -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <!-- Personal Website badge (coming soon) -->
   <img src="https://img.shields.io/badge/Website-coming%20soon-blue?style=flat" />
 </p>
+
+---
+
+## 🎮 Mini Game: Guess the Programming Language!
+
+```text
+print("Hello, World!")
+```
+
+> Which programming language is this?  
+> _Hint: It's one of my favorites from the tech stack above!_
 
 ---
 
 <p align="center">
   <b>Thank you for visiting my profile! 😊</b>
 </p>
-
-
-
-
