@@ -51,6 +51,17 @@
 </p>
 
 ---
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=muma005&hide_border=true&background=000000&ring=2F81F7&currStreakLabel=2F81F7&currStreakNum=58A6FF&sideNums=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub Streak for muma005"
+  />
+  <br>
+  <i>Auto-updates from your GitHub contribution data.</i>
+</p>
+---
 
 ## 🌟 Featured Projects
 
