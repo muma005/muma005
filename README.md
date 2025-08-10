@@ -62,6 +62,12 @@
   
 </p>
 ---
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muma005/muma005/output/snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/muma005/muma005/output/snake.svg" />
+</picture>
 
 ## 🌟 Featured Projects
 
