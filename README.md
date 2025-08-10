@@ -59,7 +59,7 @@
     alt="GitHub Streak for muma005"
   />
   <br>
-  <i>Auto-updates from your GitHub contribution data.</i>
+  
 </p>
 ---
 
