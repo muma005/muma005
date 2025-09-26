@@ -99,3 +99,4 @@
 <p align="center">
   <b>Thank you for visiting my profile! 😊</b>
 </p>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=muma005.muma005)
