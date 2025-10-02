@@ -8,7 +8,7 @@
 
 ## 🏅 Profile Insights
 
-- 🚀 Passionate about Data Science, ML, Artificial Intelligence, and Full Stack Development
+- 🚀 Passionate about Data Science, ML, Artificial Intelligence, and  Development
 - 🌱 Always learning: new frameworks, tools, and concepts in tech
 - 🔭 Working on open-source projects, check out my repositories!
 - 💬 Open for collaboration and knowledge sharing
@@ -21,11 +21,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
@@ -33,8 +28,6 @@
 
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -65,10 +58,7 @@
 
 - **[MLTeammate](https://github.com/muma005/MLTeammate)**  
   <i>An open-source AutoML framework that automates the machine learning workflow—data preprocessing, model selection, and evaluation—so you can experiment and deploy smarter, faster.</i>
-- **Inventory Management System**  
-  Robust system for tracking and managing inventory.
-- **Predictive Modeling**  
-  Accurate modeling for data-driven predictions.
+
 - ...and more in my [repositories](https://github.com/muma005?tab=repositories)!
 
 ---
