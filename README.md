@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there/ 👋</h1>
+<h1 align="center">Hi there, 👋</h1>
 <p align="center">
   <b>Data Scientist | Innovator | Lifelong Learner</b><br>
   <i>Building innovative solutions and exploring new technologies</i>
