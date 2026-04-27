@@ -13,7 +13,7 @@
 - 🌱 Always learning: new frameworks, tools, and concepts in tech
 - 🔭 Working on open-source projects, check out my repositories!
 - 💬 Open for collaboration and knowledge sharing
-- ✍️ Writing on [Medium](https://medium.com/@gmuma4879/audience) about tech and data
+- ✍️ Writing on [Medium]([https://medium.com/@gmuma4879/audience](https://medium.com/@matundamuma)) about tech and data
 - 📨 Contact: [gmuma4879@gmail.com](mailto:gmuma4879@gmail.com)
 
 ---
@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="mailto:gmuma4879@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@gmuma4879/audience"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="[https://medium.com/@gmuma4879/audience](https://medium.com/@matundamuma)"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
   <!-- Add your LinkedIn and Twitter URLs below! -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
