@@ -74,7 +74,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:gmuma4879@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
